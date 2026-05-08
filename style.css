@@ -23,6 +23,10 @@ body {
     overflow-x: hidden;
 }
 
+.no-wrap {
+    white-space: nowrap;
+}
+
 @keyframes fadeInUp {
     from {
         opacity: 0;
